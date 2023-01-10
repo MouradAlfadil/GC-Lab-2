@@ -1,0 +1,15 @@
+C:\Users\Mourad\source\repos\Lab2 Mourad Alfadil\Lab2 Mourad Alfadil\bin\Debug\net6.0\Lab2 Mourad Alfadil.exe
+C:\Users\Mourad\source\repos\Lab2 Mourad Alfadil\Lab2 Mourad Alfadil\bin\Debug\net6.0\Lab2 Mourad Alfadil.deps.json
+C:\Users\Mourad\source\repos\Lab2 Mourad Alfadil\Lab2 Mourad Alfadil\bin\Debug\net6.0\Lab2 Mourad Alfadil.runtimeconfig.json
+C:\Users\Mourad\source\repos\Lab2 Mourad Alfadil\Lab2 Mourad Alfadil\bin\Debug\net6.0\Lab2 Mourad Alfadil.dll
+C:\Users\Mourad\source\repos\Lab2 Mourad Alfadil\Lab2 Mourad Alfadil\bin\Debug\net6.0\Lab2 Mourad Alfadil.pdb
+C:\Users\Mourad\source\repos\Lab2 Mourad Alfadil\Lab2 Mourad Alfadil\obj\Debug\net6.0\Lab2 Mourad Alfadil.csproj.AssemblyReference.cache
+C:\Users\Mourad\source\repos\Lab2 Mourad Alfadil\Lab2 Mourad Alfadil\obj\Debug\net6.0\Lab2 Mourad Alfadil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mourad\source\repos\Lab2 Mourad Alfadil\Lab2 Mourad Alfadil\obj\Debug\net6.0\Lab2 Mourad Alfadil.AssemblyInfoInputs.cache
+C:\Users\Mourad\source\repos\Lab2 Mourad Alfadil\Lab2 Mourad Alfadil\obj\Debug\net6.0\Lab2 Mourad Alfadil.AssemblyInfo.cs
+C:\Users\Mourad\source\repos\Lab2 Mourad Alfadil\Lab2 Mourad Alfadil\obj\Debug\net6.0\Lab2 Mourad Alfadil.csproj.CoreCompileInputs.cache
+C:\Users\Mourad\source\repos\Lab2 Mourad Alfadil\Lab2 Mourad Alfadil\obj\Debug\net6.0\Lab2 Mourad Alfadil.dll
+C:\Users\Mourad\source\repos\Lab2 Mourad Alfadil\Lab2 Mourad Alfadil\obj\Debug\net6.0\refint\Lab2 Mourad Alfadil.dll
+C:\Users\Mourad\source\repos\Lab2 Mourad Alfadil\Lab2 Mourad Alfadil\obj\Debug\net6.0\Lab2 Mourad Alfadil.pdb
+C:\Users\Mourad\source\repos\Lab2 Mourad Alfadil\Lab2 Mourad Alfadil\obj\Debug\net6.0\Lab2 Mourad Alfadil.genruntimeconfig.cache
+C:\Users\Mourad\source\repos\Lab2 Mourad Alfadil\Lab2 Mourad Alfadil\obj\Debug\net6.0\ref\Lab2 Mourad Alfadil.dll
